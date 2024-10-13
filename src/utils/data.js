@@ -3,51 +3,50 @@ import { CiMobile1 } from "react-icons/ci";
 import { MdWorkspacesOutline } from "react-icons/md";
 export const projectExperience = [
   {
-    name: "Website Design",
-    projects: 76,
+    name: "Web Application Development",
+    projects: 6,
     icon: HiOutlineDesktopComputer,
     bg: "#286F6C",
   },
   {
-    name: "Mobile App Design",
-    projects: 63,
+    name: "Mobile Application Development",
+    projects: 3,
     icon: CiMobile1,
     bg: "#EEC048",
   },
   {
-    name: "Brand Identity",
-    projects: 47,
+    name: "Backend Development",
+    projects: 4,
     icon: MdWorkspacesOutline,
     bg: "#F26440",
   },
 ];
 
 export const WhatDoIHelp = [
-  "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
+  "I create custom web apps with secure backends and responsive frontends. I manage databases, integrate APIs, offer tech advice, and provide ongoing support to keep everything running smoothly.",
 ];
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "IBM, Mumbai",
+    tenure: "Sep 2024 - Present",
+    role: "Application Developer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Open for exciting opportunities in Cloud and Enterprise Software Development, Backend Engineer, and SDE roles.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Capgemini, Mumbai",
+    tenure: "Aug 2022 - Sep 2024",
+    role: "Associate Consultant",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Gathered requirements and implemented change requests. Participated in analysis, design, development, coding, testing, and deployment. Worked with PostgreSQL, writing scripts for maintenance banners and updates. Used Splunk for log monitoring. Communicated with clients, handled calls, understood requirements, supported production deployments, and addressed production issues. Tech stack: Java 8, Spring Boot, Microservices, Maven, React.js, Next.js, PostgreSQL, PgAdmin, AWS, Kafka, IBM MQ, GitLab, Jira.",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Atos, Mumbai",
+    tenure: "Feb 2020 - Aug 2022",
+    role: "Associate Consultant",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Worked with senior engineers, product managers, and customers to clarify user stories, estimate tasks, and deliver quality code within the committed iteration. Had exposure to microservices architecture and CI/CD with an agile way of functioning.Tech stack: Java 8, Spring Boot, Spring Data JPA, SQL, GitHub, Bamboo, TeamCity.",
   },
 ];
 
